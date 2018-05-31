@@ -13,6 +13,7 @@ import java.sql.*;
  *
  * @author Jean-Aymeric DIET jadiet@cesi.fr
  * @version 1.0
+ * Hugo Defruit
  */
 public abstract class Main {
 
